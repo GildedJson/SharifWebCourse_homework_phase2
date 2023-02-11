@@ -1,0 +1,12 @@
+{
+  "name": "parse_proj",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "parse-server": "^6.0.0"
+  }
+}
